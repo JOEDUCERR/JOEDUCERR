@@ -1,4 +1,4 @@
-<h1 align="center">Jonah Sudhir</h1>
+<h1 align="center">Jonah Sudhir (JOEDUCER)</h1>
 
 <p align="center">
 Computer Science Student | Aspiring AI/ML Developer | Game Dev Enthusiast
@@ -68,12 +68,6 @@ Computer Science Student | Aspiring AI/ML Developer | Game Dev Enthusiast
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=JOEDUCERR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JOEDUCERR&icon=0&color=1" />
 </p>
 
 <!-- Created with ❤️ by Jonah Sudhir -->
