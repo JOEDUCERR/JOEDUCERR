@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jonah Sudhir</h1>
+<h1 align="center">Jonah Sudhir</h1>
 
 <p align="center">
 Computer Science Student | Aspiring AI/ML Developer | Game Dev Enthusiast
@@ -48,16 +48,32 @@ Computer Science Student | Aspiring AI/ML Developer | Game Dev Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JOEDUCERR&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JOEDUCERR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JOEDUCERR&theme=radical&no-frame=false&margin-w=10"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JOEDUCERR&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+### 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=JOEDUCERR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=JOEDUCERR&icon=0&color=1" />
+</p>
+
+<!-- Created with ❤️ by Jonah Sudhir -->
