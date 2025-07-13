@@ -1,7 +1,7 @@
 <h1 align="center">Jonah Sudhir (JOEDUCER)</h1>
 
 <p align="center">
-Computer Science Student | Aspiring AI/ML Developer | Game Dev Enthusiast
+Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
 </p>
 
 ---
