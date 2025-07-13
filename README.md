@@ -62,12 +62,4 @@ Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
----
-
-### 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JOEDUCERR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
 <!-- Created with ❤️ by Jonah Sudhir -->
