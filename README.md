@@ -6,7 +6,7 @@ Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
 
 ---
 
-<h1>📫 Connect with Me</h1>
+<h1 align="center">📫 Connect with Me</h1>
 <p align="center">
   <a href="https://instagram.com/joeducer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jonahsudhir"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
