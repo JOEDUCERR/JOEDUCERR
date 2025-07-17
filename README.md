@@ -17,7 +17,7 @@ Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
 
 ---
 
-### 🚀 Tech Stack
+<h1 align="center">🚀 Tech Stack</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -37,7 +37,7 @@ Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
 
 ---
 
-### 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JOEDUCERR&theme=tokyonight&show_icons=true&hide_border=false" width="48%"/>
@@ -48,7 +48,7 @@ Computer Science Student | Aspiring AI/ML Developer | 3D Modeling Enthusiast
 
 ---
 
-### 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JOEDUCERR&theme=radical&no-frame=false&margin-w=10"/>
